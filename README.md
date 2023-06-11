@@ -6,6 +6,10 @@ This repository contains a Python project that generates Dual-Tone Multi-Frequen
 
 DTMF signals are composed of two sine waves with different frequencies. In the case of telephone keypads, a combination of two frequencies is used to represent each digit. For example, the digit 5 is represented by a sum of two sine waves with frequencies of 770Hz and 1336Hz.
 
+![image](https://github.com/ShayanNadeem08/DTMF-Signal-Decoder/assets/135377655/23b36dfc-5fc7-426e-b095-6f965cb9d600)
+![image](https://github.com/ShayanNadeem08/DTMF-Signal-Decoder/assets/135377655/5d47a3a9-1f2f-4aeb-9620-d8e486d07962)
+
+
 ## Project Structure
 
 The project consists of the following components:
